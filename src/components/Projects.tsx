@@ -9,33 +9,9 @@ const projects = [
     title: 'Modern E-Commerce Platform',
     description: 'A full-featured e-commerce solution with real-time inventory management and AI-powered recommendations.',
     image: 'https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
-    tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    liveUrl: '#',
-    githubUrl: '#'
-  },
-  {
-    title: 'Finance Analytics Dashboard',
-    description: 'Interactive dashboard for financial data visualization with customizable widgets and real-time updates.',
-    image: 'https://images.pexels.com/photos/7947782/pexels-photo-7947782.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
-    tags: ['TypeScript', 'D3.js', 'Firebase', 'Material UI'],
-    liveUrl: '#',
-    githubUrl: '#'
-  },
-  {
-    title: 'AI Content Creator',
-    description: 'Tool that leverages machine learning to generate and optimize content for different platforms and audiences.',
-    image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
-    tags: ['Python', 'TensorFlow', 'React', 'OpenAI'],
-    liveUrl: '#',
-    githubUrl: '#'
-  },
-  {
-    title: 'Health & Fitness App',
-    description: 'Mobile application for tracking workouts, nutrition, and health metrics with personalized recommendations.',
-    image: 'https://images.pexels.com/photos/3927392/pexels-photo-3927392.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
-    tags: ['React Native', 'Firebase', 'Redux', 'HealthKit'],
-    liveUrl: '#',
-    githubUrl: '#'
+    tags: ['React', 'Node.js', 'Vite'],
+    liveUrl: 'https://mizumi-ecommerce.vercel.app/',
+    githubUrl: 'https://github.com/DreamingVaishu/MIZUMI_Ecommerce'
   }
 ];
 
