@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
           >
             {[
               { icon: <Mail size={24} />, title: 'Email', info: 'daydreamingvaishu@gmail.com', link: 'https://mail.google.com/mail/?view=cm&fs=1&to=daydreamingvaishu@gmail.com&su=Hello&body=I%20want%20to%20contact%20you" ' },
-              { icon: <Phone size={24} />, title: 'Phone', info: 'NA', link: 'tel:+91 9167925510'},
+              { icon: <Phone size={24} />, title: 'Phone', info: 'NA', link: 'tel:NA'},
               { icon: <MapPin size={24} />, title: 'Location', info: 'Mumbai , Maharashtra', link: '#' }
             ].map((item, index) => (
               <a 
